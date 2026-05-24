@@ -20,7 +20,7 @@ This project was built in phases, each one solving a specific problem that the p
 ## Project Structure
 
 ```
-ssh-from-scratch/
+ownssh/
 ├── phase1/
 │   ├── server.py
 │   └── client.py
